@@ -16,7 +16,7 @@ import com.publiccms.common.handler.PageHandler;
 
 /**
  *
- * SysSiteServiceTest
+ * SysSiteServiceTest测试类
  * 
  */
 @RunWith(SpringJUnit4ClassRunner.class)
